@@ -1,2 +1,2 @@
 # coding-essential-cpp
-coding with essential cpp
+the way i start C++ coding with essential cpp
